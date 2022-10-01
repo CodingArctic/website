@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
+
+html {
+    background-color: #1c1c1c;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
 a {
     text-decoration: none;
   }
@@ -31,9 +38,10 @@ a {
     */
     display: block;
     color: #e7e7e7;
+    font-weight: bold;
    /* Remove padding from top/bottom and add 24px padding right/left */
     padding: 0 24px;
-    font-size: 24px;
+    font-size: 32px;
   }
   
   .navbar ul li a {
